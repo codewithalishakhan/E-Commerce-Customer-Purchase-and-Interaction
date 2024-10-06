@@ -13,7 +13,7 @@ Purchase Information: Gain insights into individual purchases with details like 
 
 Order Status: Understand the status of each order, including Completed, In Process, or Cancelled.
 
-Geographical Analysis: Analyze customer transactions based on their location, represented by the Country column.
+Geographical Analysis: Analyze customer transactions based on location, represented by the Country column.
 
 Traffic Sources: Investigate the effectiveness of different traffic sources in generating sales, including Organic Search, Paid Advertisement, and Social Media.
 Session Details: Explore user engagement through SessionDuration metrics.
@@ -21,3 +21,6 @@ Session Details: Explore user engagement through SessionDuration metrics.
 Device and OS Analysis: Examine customer behavior based on the type of device (Mobile, Computer) and operating system (Android, Windows).
 
 Rating Insights: Evaluate customer satisfaction with DeliveryRating and ProductRating.
+
+
+<img src ="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/154402e5-05ad-4067-8c0e-91f441dc7125"  height= 300>
