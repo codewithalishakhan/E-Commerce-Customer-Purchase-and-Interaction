@@ -22,5 +22,5 @@ Device and OS Analysis: Examine customer behavior based on the type of device (M
 
 Rating Insights: Evaluate customer satisfaction with DeliveryRating and ProductRating.
 
-
+<img src ="https://github.com/user-attachments/assets/318c0c64-def8-4c36-aa8e-bf4d3f84ad24"  height= 300>
 
